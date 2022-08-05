@@ -1,2 +1,2 @@
-# Statistical Shape modeling, Non rigid and ICP rigid registeration in Scala using Scalismo
+# Gaussian statistical shape modeling, non rigid and ICP rigid registeration in Scala using Scalismo
 Landmark based non rigid registration using gaussian process and Scalismo packages. An iterative closest point (ICP) is applied to bring different 3D data into the same coordinate before applying the the non-rigid registeration. Also a Satistical Shape modeling is applied to find shape variances. For more details please refer to https://scalismo.org/. 
